@@ -1,0 +1,25 @@
+{
+  "name": "test_chat_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DLineone/test_chat_AI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DLineone/test_chat_AI/issues"
+  },
+  "homepage": "https://github.com/DLineone/test_chat_AI#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "openai": "^4.21.0"
+  }
+}
